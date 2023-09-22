@@ -54,5 +54,6 @@
 // For parallel runs:
 #include <thread>
 #include <mutex>
+#include <atomic>
 
 #endif
